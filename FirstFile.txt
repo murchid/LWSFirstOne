@@ -1,2 +1,3 @@
 New file created again
 New Branch created. newbranch. OneMore update
+New Branch created. newbranch. Editing to create conflict
