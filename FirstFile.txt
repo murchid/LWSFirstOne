@@ -1,2 +1,2 @@
 New file created again
-New Branch created. newbranch.
+New Branch created. newbranch. Editing to create conflict
